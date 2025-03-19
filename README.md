@@ -13,10 +13,7 @@ The application will generate a base Go project.
 
 #### Generate project: 
 ``` shell
-  wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-project-starter/refs/heads/main/go-base.sh | bash
-```
-``` shell
-  > Project name: my-go-project
+  go-start
 ```
 
 ## With structure this uses ?
