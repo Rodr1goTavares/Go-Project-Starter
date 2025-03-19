@@ -43,3 +43,14 @@ More information on the project structure can be found in the following resource
 . [Golang Standards Project Layout](https://github.com/golang-standards/project-layout)
 
 . [Go Modules Layout Documentation](https://go.dev/doc/modules/layout)
+
+
+## Instalation
+```shell
+wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/scripts/install.sh | bash
+```
+
+## Uninstall
+```shell
+wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/scripts/uninstall.sh | bash
+```
