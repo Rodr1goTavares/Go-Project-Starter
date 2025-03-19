@@ -47,5 +47,5 @@ go-start
 
 ## Uninstall
 ```shell
-wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/scripts/uninstall.sh | bash
+wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/refs/heads/main/scripts/uninstall.sh | bash
 ```
