@@ -11,11 +11,12 @@ The application will generate a base Go project.
 
 ## Exemples:
 
-#### ✔️: 
+#### Generate project: 
 ``` shell
   wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-project-starter/refs/heads/main/go-base.sh | bash
-
-  Project name: my-go-project
+```
+``` shell
+  > Project name: my-go-project
 ```
 
 ## With structure this uses ?
