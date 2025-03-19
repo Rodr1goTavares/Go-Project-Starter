@@ -15,3 +15,5 @@ echo "Folders created. Starting project module..."
 go mod init $projectName
 
 echo "Done."
+
+exec bash -i
