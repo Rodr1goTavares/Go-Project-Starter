@@ -42,6 +42,6 @@ if ! echo "$PATH" | grep -q "$BIN_DIR"; then
     esac
 fi
 
-echo "Installation complete! Restart your terminal or run 'source ~/.bashrc' to use."
+echo "Installation complete! Restart your terminal to use."
 
 
