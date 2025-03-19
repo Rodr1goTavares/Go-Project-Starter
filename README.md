@@ -13,7 +13,7 @@ The application will generate a base Go project.
 
 #### Generate project: 
 ``` shell
-  go-start
+go-start
 ```
 
 ## With structure this uses ?
