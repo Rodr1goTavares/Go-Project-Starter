@@ -19,7 +19,7 @@ URL="https://github.com/$GITHUB_REPO/releases/latest/download/$FILE"  # Correcte
 
 # Installation directory path
 BIN_DIR="$HOME/.local/bin"
-BIN_PATH="$BIN_DIR/go-start
+BIN_PATH="$BIN_DIR/go-start"
 
 # Create the directory if needed
 mkdir -p "$BIN_DIR"
@@ -43,5 +43,3 @@ if ! echo "$PATH" | grep -q "$BIN_DIR"; then
 fi
 
 echo "Installation complete! Restart your terminal to use."
-
-
