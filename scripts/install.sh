@@ -19,7 +19,7 @@ URL="https://github.com/$GITHUB_REPO/releases/latest/download/$FILE"  # Correcte
 
 # Installation directory path
 BIN_DIR="$HOME/.local/bin"
-BIN_PATH="$BIN_DIR/go-project-starter"
+BIN_PATH="$BIN_DIR/go-start
 
 # Create the directory if needed
 mkdir -p "$BIN_DIR"
