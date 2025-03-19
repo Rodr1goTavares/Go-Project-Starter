@@ -13,7 +13,7 @@ case "$OS" in
 esac
 
 # GitHub repository and version configuration
-GITHUB_REPO="Rodr1goTavares/G-Project-Starter"
+GITHUB_REPO="Rodr1goTavares/Go-Project-Starter"
 VERSION="latest"  # Or specify a version like "v1.0.0"
 URL="https://github.com/$GITHUB_REPO/releases/latest/download/$FILE"  # Corrected URL
 
