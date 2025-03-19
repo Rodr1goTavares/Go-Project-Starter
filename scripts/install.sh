@@ -7,8 +7,8 @@ ARCH=$(uname -m)
 
 # Set the file name based on the operating system
 case "$OS" in
-    Linux)   FILE="go-project-starter" ;;  # Correct file name without extension
-    Darwin)  FILE="go-project-starter" ;;  # Correct file name without extension
+    Linux)   FILE="go-start" ;;  # Correct file name without extension
+    Darwin)  FILE="go-start" ;;  # Correct file name without extension
     *) echo "System not supported!" && exit 1 ;;
 esac
 
