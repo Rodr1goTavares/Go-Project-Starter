@@ -2,19 +2,9 @@
 
 The application will generate a base Go project.
 
-
-<br>
-
-## Exemples:
-
-#### Generate project: 
-``` shell
-go-start
-```
-
 ## With structure this uses ?
 
-### Here's the typical structure for a Go project:
+#### Here's the typical structure for a Go project:
 
 ```
   my-go-project/
@@ -37,11 +27,23 @@ More information on the project structure can be found in the following resource
 
 . [Go Modules Layout Documentation](https://go.dev/doc/modules/layout)
 
+<br>
 
 ## Instalation
 ```shell
 wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/scripts/install.sh | bash
 ```
+
+<br>
+
+## Usage:
+
+#### Generate project: 
+``` shell
+go-start
+```
+
+<br>
 
 ## Uninstall
 ```shell
