@@ -1,8 +1,8 @@
 
 #!/bin/sh
 
-LOCAL_BIN="$HOME/.local/bin/go-project-starter"
-GLOBAL_BIN="/usr/local/bin/go-project-starter"
+LOCAL_BIN="$HOME/.local/bin/go-start"
+GLOBAL_BIN="/usr/local/bin/go-start"
 
 if [ -f "$LOCAL_BIN" ]; then
     echo "Removing go-project-starter from $LOCAL_BIN..."
