@@ -1,8 +1,4 @@
-# Go Base Starter
-
-<br>
-
-## How it works ? 
+# How it works ? 
 
 The application will generate a base Go project.
 
