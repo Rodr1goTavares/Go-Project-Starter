@@ -31,7 +31,7 @@ More information on the project structure can be found in the following resource
 
 ## Instalation
 ```shell
-wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/scripts/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/refs/heads/main/scripts/install.sh | bash
 ```
 
 <br>
