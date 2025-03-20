@@ -2,9 +2,9 @@
 
 The application will generate a base Go project.
 
-## With structure this uses ?
+### With structure this uses ?
 
-#### Here's the typical structure for a Go project:
+ Here's the typical structure for a Go project:
 
 ```
   my-go-project/
@@ -37,8 +37,6 @@ wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/re
 <br>
 
 ## Usage:
-
-#### Generate project: 
 ``` shell
 go-start
 ```
