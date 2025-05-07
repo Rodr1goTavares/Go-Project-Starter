@@ -29,7 +29,7 @@ More information on the project structure can be found in the following resource
 
 <br>
 
-## Instalation
+## Instalation (Unix-like systems)
 ```shell
 wget -qO- https://raw.githubusercontent.com/Rodr1goTavares/Go-Project-Starter/refs/heads/main/scripts/install.sh | bash
 ```
